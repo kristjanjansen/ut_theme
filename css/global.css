@@ -1,1 +1,11 @@
-/* This file will hold the main styles for your website. */
+body {
+  font-size: 1em;
+  line-height: 1.4em;
+  font-family: sans-serif;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+a, a:link {
+  text-decoration: none;
+  color: #1C498C;
+}
